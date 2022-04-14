@@ -1,0 +1,56 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="contact-bghero">
+<rect width="1920" height="1080" fill="#101010"/>
+<g id="solar-sistem">
+<circle id="ellipse358" cx="437.158" cy="432.5" r="251.346" stroke="url(#paint0_linear_619_539)" stroke-width="3"/>
+<circle id="ellipse359" cx="437.157" cy="432.5" r="431" stroke="url(#paint1_linear_619_539)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 15"/>
+<circle id="ellipse360" cx="436.825" cy="432.833" r="159.69" stroke="url(#paint2_linear_619_539)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1 10"/>
+<circle id="ellipse361" cx="21.2923" cy="546.946" r="21.2923" fill="url(#paint3_linear_619_539)"/>
+<circle id="ellipse362" cx="602.838" cy="243.531" r="7.98462" fill="url(#paint4_linear_619_539)"/>
+</g>
+<g id="stars">
+<path id="star1" d="M1327 180L1766 180" stroke="url(#paint5_linear_619_539)" stroke-width="3"/>
+<path id="star2" d="M1419 402H1858" stroke="url(#paint6_linear_619_539)" stroke-width="3"/>
+<path id="star3" d="M1171 685H1610" stroke="url(#paint7_linear_619_539)" stroke-width="3"/>
+<path id="star4" d="M1419 900H1858" stroke="url(#paint8_linear_619_539)" stroke-width="3"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_619_539" x1="598.347" y1="249.187" x2="282.289" y2="622.135" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_619_539" x1="437.157" y1="0" x2="437.157" y2="865" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+<linearGradient id="paint2_linear_619_539" x1="436.825" y1="272.142" x2="436.825" y2="593.523" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint3_linear_619_539" x1="35.1323" y1="528.848" x2="11.1785" y2="562.915" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00A300"/>
+<stop offset="1" stop-color="#66DA6E"/>
+</linearGradient>
+<linearGradient id="paint4_linear_619_539" x1="608.028" y1="236.744" x2="599.045" y2="249.519" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00A300"/>
+<stop offset="1" stop-color="#66DA6E"/>
+</linearGradient>
+<linearGradient id="paint5_linear_619_539" x1="1327" y1="179.5" x2="1766" y2="179.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FDFDFD"/>
+<stop offset="1" stop-color="#FDFDFD" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint6_linear_619_539" x1="1419" y1="401.5" x2="1858" y2="401.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FDFDFD"/>
+<stop offset="1" stop-color="#FDFDFD" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint7_linear_619_539" x1="1171" y1="684.5" x2="1610" y2="684.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FDFDFD"/>
+<stop offset="1" stop-color="#FDFDFD" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint8_linear_619_539" x1="1419" y1="899.5" x2="1858" y2="899.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FDFDFD"/>
+<stop offset="1" stop-color="#FDFDFD" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>

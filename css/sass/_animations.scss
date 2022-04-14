@@ -1,0 +1,200 @@
+@import '../sass/bgs';
+
+// Animações BIG DATA
+
+#elipse1 {
+    transform-origin: center center;
+    transform-box: fill-box;
+    animation: pizza-chart 10s linear infinite;
+}
+
+#january {
+    animation: bar-chart 12s infinite 2s alternate;
+
+}
+
+#february {
+    animation: bar-chart 12s infinite 2s alternate;
+
+}
+
+#march {
+    animation: bar-chart 12s infinite 2s alternate;
+
+}
+
+#april {
+    animation: bar-chart 12s infinite 4s alternate;
+
+}
+
+#may {
+    animation: bar-chart 12s infinite 4s alternate;
+
+}
+
+#june {
+    animation: bar-chart 12s infinite 4s alternate;
+
+}
+
+#july {
+    animation: bar-chart 12s infinite 5s alternate;
+
+}
+
+#august {
+    animation: bar-chart 12s infinite 5s alternate;
+
+}
+
+#september {
+    animation: bar-chart 12s infinite 5s alternate;
+
+}
+
+#october {
+    animation: bar-chart 12s infinite 5s alternate;
+
+}
+
+#november {
+    animation: bar-chart 12s infinite 6s alternate;
+
+}
+
+#december {
+    animation: bar-chart 12s infinite 6s alternate;
+}
+
+#vol8 {
+    animation: area-chart-vol8 8s ease 2s infinite;
+}
+
+#vol7 {
+    animation: area-chart-vol7 8s ease infinite;
+}
+
+#vol6 {
+    animation: area-chart-vol6 8s ease 2s infinite;
+}
+
+#vol4 {
+    animation: area-chart-vol4 8s ease infinite;
+}
+
+#vol3 {
+    animation: area-chart-vol3 8s linear infinite;
+}
+
+#vol2 {
+    animation: area-chart-vol2 8s ease 1s infinite;
+}
+
+#vol1 {
+    animation: area-chart-vol1 8s linear infinite;
+}
+
+#chart-line {
+    animation: line-chart 12s linear infinite;
+}
+
+#vector10 {
+    animation: line-chart 12s linear infinite;
+}
+
+#oval1 {
+    animation: conclusion-graph-oval1 4s linear infinite;
+}
+
+#oval2 {
+    animation: conclusion-graph-oval2 5s linear infinite;
+}
+
+#oval3 {
+    animation: conclusion-graph-oval3 5s linear infinite;
+}
+
+#oval4 {
+    animation: conclusion-graph-oval4 4s linear infinite;
+}
+
+#oval5 {
+    animation: conclusion-graph-oval5 4s linear infinite;
+}
+
+#oval6 {
+    animation: conclusion-graph-oval6 4s linear infinite;
+}
+
+#oval7 {
+    animation: conclusion-graph-oval7 4s linear infinite;
+}
+
+#oval8 {
+    animation: conclusion-graph-oval8 9s linear infinite;
+}
+
+#oval9 {
+    animation: conclusion-graph-oval9 3s linear infinite;
+}
+
+#oval10 {
+    animation: conclusion-graph-oval10 7s linear infinite;
+}
+
+#oval11 {
+    animation: conclusion-graph-oval11 9s linear infinite;
+}
+
+#oval12 {
+    animation: conclusion-graph-oval12 6s linear infinite;
+}
+
+#bar1 {
+    width: 0px;
+    animation: conclusion-graph 15s linear infinite;
+}
+
+#menu1 {
+    animation: menu-start 10s linear infinite;
+}
+
+// -------------------------------------------------------------------------------------------------------------------------------------------- //
+
+
+// --------------------------------------------------- BG HERO CONTACT ----------------------------------------------------------------------- //
+
+#ellipse359 {
+    transform-origin: center center;
+    transform-box: fill-box;
+    animation: planet1 12s linear infinite alternate;
+}
+
+#ellipse360 {
+    transform-origin: center center;
+    transform-box: fill-box;
+    animation: planet2 12s linear infinite alternate;
+}
+
+#star1 {
+    animation: star 4s linear infinite alternate;
+}
+
+// -------------------------------------------------------------------------------------------------------------------------------------------- //
+
+// --------------------------------------------------- LOADING PAGE --- ----------------------------------------------------------------------- //
+
+.loading-page {
+    animation: hidden 8s ease 3s forwards;
+}
+
+#logo-svg {
+    animation: load1 5s ease 0s forwards;
+}
+
+#elo {
+    animation: load2 5s ease 0s forwards;
+}
+
+// -------------------------------------------------------------------------------------------------------------------------------------------- //
